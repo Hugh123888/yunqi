@@ -43,3 +43,5 @@
 * 🧊支持打包系统功能成为一个模块，换个项目一键安装，还可以作为扩展直接发布销售。
 * 📱手机端，PC端，平板响应式适配，一样的体验效果。
 * 🗒️全部使用ES6语法
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hugh123888/yunqi)
